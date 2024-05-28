@@ -1,0 +1,15 @@
+#warna {
+    background-color: black;
+    width: 100%;
+    background-position: top 100px;
+}
+
+#warna h1{
+    color :azure;
+}
+
+#gambar {
+    position: absolute;
+    top: 100px;
+    right: 9px;
+}
